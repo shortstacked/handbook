@@ -4,7 +4,7 @@ metadata:
   name: handbook
   annotations:
     github.com/project-slug: shortstacked/handbook
-    backstage.io/techdocs-ref: ./docs
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: other
   lifecycle: unknown
